@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;primeiro_teste_apostila&apos; to &apos;testes_e_exercicios_da_apostila&apos;&#x0D;&#x0A;- Original project: &apos;primeiro_teste_apostila&apos;&#x0D;&#x0A;- Original element: &apos;primeiro_teste_apostila/src/main/java/primeiro_teste_apostila&apos;&#x0D;&#x0A;- Renamed element: &apos;primeiro_teste_apostila/src/main/java/testes_e_exercicios_da_apostila&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;primeiro_teste_apostila&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;primeiro_teste_apostila" name="testes_e_exercicios_da_apostila" qualified="false" references="true" stamp="1706710886432" textual="false" version="1.0"/>
+</session>

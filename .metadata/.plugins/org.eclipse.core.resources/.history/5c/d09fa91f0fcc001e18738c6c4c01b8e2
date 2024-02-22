@@ -1,0 +1,10 @@
+package exercicio_classe_abstrata;
+
+public class ex_classe_abstrata {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

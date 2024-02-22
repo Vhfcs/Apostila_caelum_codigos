@@ -1,0 +1,11 @@
+package testa_entrada;
+import java.io.IOException;
+
+public class TestaEntrada {
+	public	static	void	main(String[]	args)	throws	IOException	{
+		InputStream	is	=	new	FileInputStream();
+		int	b	=	is.read();
+}
+}
+
+
